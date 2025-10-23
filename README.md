@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m passionate about building software, explorin
 ---
 
 ## 🧠 Skills & Tools
-**Languages:**  
+**Code Languages:**  
 `Python` • `JavaScript` • `C` • `R` • `SQL`
 
 **Web & Frameworks:**  
@@ -18,6 +18,9 @@ Welcome to my GitHub profile! I’m passionate about building software, explorin
 
 **Tools:**  
 `Git` • `VS Code` • `Figma`
+
+**Languages:**
+`Indonesia` • `English` • `Hokkien`
 
 ---
 
