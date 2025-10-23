@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m passionate about building software, explorin
 **Tools:**  
 `Git` • `VS Code` • `Figma`
 
-**Languages:**
+**Languages:**  
 `Indonesia` • `English` • `Hokkien`
 
 ---
