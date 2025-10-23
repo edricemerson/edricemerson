@@ -1,23 +1,14 @@
 # 👋 Hi, I'm Edric Emerson
 
-🎓 **Computer Science Student**   
+🎓 **Computer Science Student**   **Bina Nusantara**   **GPA : 3 at Semester 5th**
 
-Welcome to my GitHub profile! I’m passionate about building software, exploring AI, and learning how technology can solve real-world problems — especially in **data science**, **machine learning**, and **web development**.
-
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on: **portfolio website** and **AI projects**
-- 🌱 I’m learning: **Python, React, and Machine Learning**
-- 👯 I’m open to collaborate on: **open-source projects** or **research-based tools**
-- 💬 Ask me about: **HTML, CSS, JavaScript, Python, or AI tools**
-- ⚡ Fun fact: I enjoy mixing creativity with logic — coding feels like art 🎨
+Welcome to my GitHub profile! I’m passionate about building software, exploring AI, especially in **data science**, **machine learning**, **web development**, and **mobile programming**
 
 ---
 
 ## 🧠 Skills & Tools
 **Languages:**  
-`Python` • `JavaScript` • `C` • `R`
+`Python` • `JavaScript` • `C` • `R` • `SQL`
 
 **Web & Frameworks:**  
 `HTML` • `CSS` • `React` • `Node.js`
@@ -26,7 +17,7 @@ Welcome to my GitHub profile! I’m passionate about building software, explorin
 `Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn`
 
 **Tools:**  
-`Git` • `VS Code` • `Figma` •
+`Git` • `VS Code` • `Figma`
 
 ---
 
@@ -38,11 +29,5 @@ Welcome to my GitHub profile! I’m passionate about building software, explorin
 ---
 
 ## 🌍 Connect With Me
-📫 **Email:** edricemerson@example.com  
+📫 **Email:** edriceson@gmail.com  
 💼 [**LinkedIn**](https://linkedin.com/in/edricemerson)  
-🌐 [**Portfolio Website**](https://edricemerson.github.io)
-
----
-
-### ✨ Motto
-> "Code with purpose. Learn with passion. Build for change."
