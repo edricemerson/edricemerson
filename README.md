@@ -32,5 +32,6 @@ Welcome to my GitHub profile! I’m passionate about building software, explorin
 ---
 
 ## 🌍 Connect With Me
+💬**WhatsApp:** 08111859098
 📫 **Email:** edriceson@gmail.com  
 💼 [**LinkedIn**](https://linkedin.com/in/edricemerson)  
